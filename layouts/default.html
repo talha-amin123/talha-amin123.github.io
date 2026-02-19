@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <!-- LEFT SIDEBAR -->
+  <aside class="sidebar">
+      <img src="/assets/profile.jpg" alt="Talha Amin">
+      <h1>Talha Amin</h1>
+      <p>{{ site.description }}</p>
+
+      <div class="links">
+        <a href="/resume.pdf" target="_blank">Download Resume</a>
+        <a href="https://github.com/talha-amin123" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com/in/taamin/" target="_blank">LinkedIn</a>
+      </div>
+  </aside>
+
+  <!-- RIGHT CONTENT -->
+  <main class="content">
+      {{ content }}
+  </main>
+
+</div>
+
+</body>
+</html>
