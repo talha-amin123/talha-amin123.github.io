@@ -1,14 +1,14 @@
 # Hi, I'm Talha Amin
 
-### Data Scientist | MS Business Analytics @ UC Davis
+### Data Scientist | Marketing Analyst
 
-Welcome! I’m passionate about exploring how data, machine learning, and statistical modeling can be used to solve real-world problems and support better decision-making.
+Welcome! I’m a **Business Analytics graduate candidate at UC Davis with 2+ years of experience in data analytics**, focused on using **data, machine learning, and statistical modeling** to solve complex real-world problems.
 
-My work sits at the intersection of **machine learning, analytics, and business strategy**. I enjoy building models and analytical frameworks that turn raw data into insights, whether that’s forecasting infrastructure expansion using spatial analytics or optimizing customer acquisition through marketing analytics.
+My work sits at the intersection of **machine learning, marketing analytics, and business strategy**, where I build models, data pipelines, and analytical frameworks that turn raw data into actionable insights—from forecasting spatial suitability for infrastructure planning to optimizing customer acquisition and revenue growth.
 
-Currently, I’m pursuing a **Master’s in Business Analytics at UC Davis**, where I’m working with statistical modeling, machine learning, and experimentation to better understand how data can inform **business strategy, product decisions, and operational planning**.
+I’m currently exploring opportunities where I can apply **machine learning, statistical modeling, and analytics to drive data-informed decision making**.
 
-I’m particularly interested in problems where **data science meets real-world systems** — infrastructure, digital platforms, marketing ecosystems, and decision-support tools.
+If you’re working on interesting data problems or hiring for analytics roles, feel free to **connect with me on LinkedIn or reach out via email.**
 
 ---
 
