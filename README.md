@@ -8,7 +8,7 @@ My work sits at the intersection of **machine learning, marketing analytics, and
 
 I’m currently exploring opportunities where I can apply **machine learning, statistical modeling, and analytics to drive data-informed decision making**.
 
-If you’re working on interesting data problems or hiring for analytics roles, feel free to **connect with me on LinkedIn or reach out via email.**
+If you’re working on interesting data problems or hiring for analytics roles, feel free to **connect with me on [LinkedIn](https://www.linkedin.com/in/taamin/) or reach out via [Email](mailto:talhaamin1123@icloud.com).**
 
 ---
 
