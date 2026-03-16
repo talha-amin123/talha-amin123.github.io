@@ -70,7 +70,7 @@ Feb. 2022 – May. 2024
 # Projects
 
 ### Mall Customers Segmentation  
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
-**Skills:** Machine Learning, Customer Segmentation, PCA, K-Means Clustering, Exploratory Data Analysis, Data Visualization, Marketing Analytics
-**Repository:** [View Repository](https://github.com/talha-amin123/mall-customer-segmentaion)
+- **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Skills:** Machine Learning, Customer Segmentation, PCA, K-Means Clustering, Exploratory Data Analysis, Data Visualization, Marketing Analytics
+- **Repository:** [View Repository](https://github.com/talha-amin123/mall-customer-segmentaion)
 
