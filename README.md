@@ -1,6 +1,6 @@
 # Talha Amin
 
-### MS Business Analytics Candidate @ UC Davis | Data Analytics | Marketing Analytics | Machine Learning | Agentic AI
+### MS Business Analytics Candidate @ UC Davis | Data Analyst | Business Analyst | Marketing Analyst
 
 Welcome. I am an MS Business Analytics candidate at UC Davis with 2+ years of experience in data analytics and marketing analytics, with a strong foundation in statistical modeling, data pipelines, and predictive analytics.
 
@@ -26,6 +26,35 @@ MS in Business Analytics candidate at UC Davis with experience across data analy
 **Core competencies:** Data Analysis, Statistical Modeling, Forecasting, A/B Testing, Machine Learning, RAG Systems, LLM Evaluation, Marketing Analytics
 
 **Technologies:** Python, pandas, NumPy, statsmodels, scikit-learn, SQL, R, Power BI, Advanced Excel, ChromaDB, Claude API, FastAPI, Streamlit
+
+---
+
+# Professional Experience
+
+## Amplytico
+
+**Data Analyst, Practicum Project**  
+San Francisco, CA | Sept. 2025 - Jun. 2026
+
+Collaborating with senior leadership as part of the UC Davis MSBA practicum to deliver forecasting models for U.S. data-center expansion and a production RAG-based AI agent for construction safety compliance.
+
+- Automated a Python ETL pipeline for 5+ spatial predictors using large datasets of 5K+ candidate sites via APIs and web scraping.
+- Conducted hypothesis testing, including Welch's t-test and Mann-Whitney U, to assess statistical significance and support feature selection.
+- Built a regularized logistic regression model with cross-validation to forecast site suitability with more than 85% balanced accuracy.
+- Built a production RAG-based AI agent using ChromaDB and Claude on regulatory PDFs, delivering cited, document-grounded answers with 84% coverage across a 75-question evaluation set.
+- Engineered an evaluation-first tuning loop with an LLM-as-judge scoring pipeline, reducing measured hallucination to 0.0% while preserving answer quality and logging refusals into a gap repository.
+
+## Fermento
+
+**Co-Founder & Marketing Analytics Lead**  
+Karachi, Pakistan | Feb. 2022 - May 2024
+
+Co-led a cross-functional consumer food startup, managing digital marketing strategy, analytics, and team operations to scale customer acquisition and revenue growth.
+
+- Directed digital marketing campaigns across Meta Ads platforms by analyzing CPC, CTR, and ROAS, contributing to a 25% increase in total revenue.
+- Optimized marketing spend through A/B testing and audience segmentation, identifying high-ROAS demographics and improving spend efficiency by 30%.
+- Scaled the customer base by 40% through segmented promotional offers and acquisition-funnel analysis.
+- Led a 5-member team on KPI tracking and reporting, improving workflow efficiency and aligning execution with business goals.
 
 ---
 
@@ -92,35 +121,6 @@ End-to-end food recall detection tool that surfaces real-time recall alerts on I
 - Designed fuzzy matching logic with token, size, and freshness guardrails.
 - Exposed recall checks through a Flask API.
 - Built a Chrome extension to display recall warnings directly in the shopping experience.
-
----
-
-# Professional Experience
-
-## Amplytico
-
-**Data Analyst, Practicum Project**  
-San Francisco, CA | Sept. 2025 - Jun. 2026
-
-Collaborating with senior leadership as part of the UC Davis MSBA practicum to deliver forecasting models for U.S. data-center expansion and a production RAG-based AI agent for construction safety compliance.
-
-- Automated a Python ETL pipeline for 5+ spatial predictors using large datasets of 5K+ candidate sites via APIs and web scraping.
-- Conducted hypothesis testing, including Welch's t-test and Mann-Whitney U, to assess statistical significance and support feature selection.
-- Built a regularized logistic regression model with cross-validation to forecast site suitability with more than 85% balanced accuracy.
-- Built a production RAG-based AI agent using ChromaDB and Claude on regulatory PDFs, delivering cited, document-grounded answers with 84% coverage across a 75-question evaluation set.
-- Engineered an evaluation-first tuning loop with an LLM-as-judge scoring pipeline, reducing measured hallucination to 0.0% while preserving answer quality and logging refusals into a gap repository.
-
-## Fermento
-
-**Co-Founder & Marketing Analytics Lead**  
-Karachi, Pakistan | Feb. 2022 - May 2024
-
-Co-led a cross-functional consumer food startup, managing digital marketing strategy, analytics, and team operations to scale customer acquisition and revenue growth.
-
-- Directed digital marketing campaigns across Meta Ads platforms by analyzing CPC, CTR, and ROAS, contributing to a 25% increase in total revenue.
-- Optimized marketing spend through A/B testing and audience segmentation, identifying high-ROAS demographics and improving spend efficiency by 30%.
-- Scaled the customer base by 40% through segmented promotional offers and acquisition-funnel analysis.
-- Led a 5-member team on KPI tracking and reporting, improving workflow efficiency and aligning execution with business goals.
 
 ---
 
