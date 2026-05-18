@@ -12,7 +12,7 @@ I am interested in data science, data analytics, marketing analytics, machine le
 
 # Quick Links
 
-[Resume](assets/TalhaAmin_Resume_4.pdf)  
+[Resume](assets/TalhaAmin_Resume_4.pdf](https://drive.google.com/file/d/1t-7H8ANKJ4u4OiSdmv1nKZChKgBZPTv8/view?usp=sharing)  
 [LinkedIn](https://www.linkedin.com/in/taamin/)  
 [GitHub](https://github.com/talha-amin123)  
 [Email](mailto:talhaamin1123@icloud.com)
